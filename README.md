@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [FAQ accordion card](https://chall-faq-accordion-card-main.netlify.app/)
 
 ## My process
 
